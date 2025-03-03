@@ -1,0 +1,6 @@
+Incident_ID,Category,Priority,Status,RCA_Completed,Incident_Recurrence,Time_to_Resolve_Hours
+101,Network,High,Resolved,Yes,2,5
+102,Database,Medium,In Progress,No,5,12
+103,Application,High,Resolved,Yes,1,3
+104,Server,Low,Open,No,4,15
+105,Security,Critical,Resolved,Yes,0,1
